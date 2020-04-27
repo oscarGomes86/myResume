@@ -1,0 +1,92 @@
+/* generic stylings for theme */
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #204051;
+    color: #cae8d5;
+}
+
+/* Resume headings */
+#heading {
+    background-color: #00909e;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#heading h5 {
+    color:  #cae8d5;
+    font-size: large;
+    padding: 0.5rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Resume subheading1 */
+#subheading1 {
+    background-color: #3b6978;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#subheading1 h5 {
+    color:  #cae8d5;
+    font-size: large;
+    padding: 0.5rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* Resume subheading2 */
+#subheading2 {
+    background-color: #27496d;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#subheading2 h5 {
+    margin-bottom: 0px;
+    color:  #cae8d5;
+    font-size: large;
+    padding: 0.5rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* section styling */
+.right-section ul {
+    margin-bottom: 0px;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+}
+
+.left-section ul {
+    margin-bottom: 0px;
+    padding: 0.5rem;
+}
+
+.left-section ul li {
+    line-height: 2rem;
+}
+
+.right-section ul li{
+    padding: 0.2rem;
+    margin-left: 1rem;
+}
+
+/* Name styling */
+#myName h5 {
+    color:  #cae8d5;
+    font-size: xx-large;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* Contact details styling */
+#contactDetails i{
+    font-size: larger;
+    color: #cae8d5;
+    margin: 0px 0.5rem 0px 0.5rem;
+}
+
+/* summary overview */
+#summary span{
+    padding: 1rem;
+    line-height: 2rem;
+}
